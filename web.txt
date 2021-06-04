@@ -3,7 +3,7 @@ It is basically a way that large networks of computers and networks communicate 
 Without the internet, many people would not have a way to connect with other people's computers virtually.
 The internet has changed in a lot of ways in the past 20 years and is still changing as of today.
 
-When you click on a link to a certain website on the internet, there is a pocess that goes on to get you
+When you click on a link to a certain website on the internet, there is a process that goes on to get you
 to your destination. The first step that happens is the browser goes to the DNS server, and finds the real
 address of the server you are trying to connect to. Then, the browser sends an HTTP request message to the server,
 asking it to send a copy of the website to your computer. If the server approves the request, the server sends a '200 OK'
